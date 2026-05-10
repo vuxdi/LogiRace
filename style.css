@@ -17,8 +17,17 @@ html {
     border: solid white 1px;
     background-color: grey;
 }
+.nav a:visited {
+    color: red;
+    text-decoration: none;
+    position: fixed;
+    border: solid white 1px;
+    background-color: grey;
+}
 main img{
     width: 200px;
     height: 200px;
     
+}
+b:hover { color: red;
 }
